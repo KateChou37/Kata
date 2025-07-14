@@ -1,0 +1,44 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.container{
+    max-width: 640px;
+    margin: 0 auto;
+}
+img{
+    display: block;
+    height: auto;
+}
+h2{
+    line-height: 1.2;
+    font-size: 20px;
+}
+.d-flex{
+    display: flex;
+
+}
+.mr-20{
+    margin-right: 20px;
+}
+.mb-24{
+    margin-bottom: 24px;
+}
+.py-48{
+    padding: 48px 0px;
+}
+.text-ac{
+    text-align: center;
+}
+.artical{
+    width: 288px;
+}
+
+.news{
+    margin-right: 20px;
+}
+.img-96{
+    margin-right: 20px;
+
+}
